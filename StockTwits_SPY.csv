@@ -1,0 +1,4 @@
+RMSE,,
+,train data,test data
+LSTM,0.69,1.05
+GRU,0.76,1.36
